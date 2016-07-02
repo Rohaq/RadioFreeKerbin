@@ -1,0 +1,49 @@
+{
+    "spec_version"   : "v1.2",
+    "name"           : "Radio Free Kerbin",
+    "abstract"       : "Basic data transmission for crewed command parts",
+    "identifier"     : "RadioFreeKerbin",
+    "download"       : "https://github.com/benjwgarner/RadioFreeKerbin/releases/download/v1.0.1/RadioFreeKerbin_v1.0.1.zip",
+    "license"        : "MIT",
+    "version"        : "1.0.1",
+    
+    "author"         : "benjwgarner",
+    "description"    : "A mod for Kerbal Space Program that adds basic antenna capability to all stock or mod-provided crewed command parts.",
+    "release_status" : "stable",
+    "ksp_version_min": "1.1.3",
+    "ksp_version_max": "1.1.99",
+    
+    
+    "resources" : {
+        "homepage"     : "http://forum.kerbalspaceprogram.com/index.php?/topic/142941-113-mm-radio-free-kerbin-v101-01-jul-2016-data-transmission-for-crewed-command-parts/",
+        "repository"   : "https://github.com/benjwgarner/RadioFreeKerbin",
+        "bugtracker"   : "https://github.com/benjwgarner/RadioFreeKerbin/issues",
+        "spacedock"    : "http://spacedock.info/mod/818/Radio%20Free%20Kerbin",
+    },
+    
+    "install" : [
+        {
+            "file"       : "GameData/RadioFreeKerbin",
+            "install_to" : "GameData"
+        }
+    ],
+    
+    "depends" : [
+        {
+            "name" : "ModuleManager", "min_version" : "2.6.25"
+        }
+    ],
+    
+    "recommends" : [
+    ],
+    
+    "suggests" : [    
+    ],
+    
+    "supports" : [
+        {
+            "name" : "KSP-AVC", "min_version" : "1.1.6.1"
+        }
+    ]
+        
+}

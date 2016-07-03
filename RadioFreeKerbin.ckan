@@ -19,6 +19,7 @@
         "repository"   : "https://github.com/benjwgarner/RadioFreeKerbin",
         "bugtracker"   : "https://github.com/benjwgarner/RadioFreeKerbin/issues",
         "spacedock"    : "http://spacedock.info/mod/818/Radio%20Free%20Kerbin",
+		"x_screenshot" : "https://i.imgur.com/7WyuRZQ.png"
     },
     
     "install" : [

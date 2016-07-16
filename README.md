@@ -9,10 +9,15 @@ A mod for Kerbal Space Program that adds basic antenna capability to all stock o
 
 ## Changelog
 
-- **v1.0.1** (02 July 2016)
- - Nerfed antenna specs for balance with stock antennas (now same as Communotron 16)
- - Added CKAN support
+- **v1.1.0** (16 July 2016)
+ - Added RemoteTech support
+ - Added AntennaRange support
+ - Removed unneccessary config values that could cause compatibility problems
+ - RadioFreeKerbin will no longer attempt to add an antenna if the part has one already
 
+- **v1.0.1** (02 July 2016)
+ - Nerfed antenna specs for balance with stock antennas (now the same as Communotron 16)
+ - Added CKAN support
 
 - **v1.0.0** (29 June 2016)
  - Initial release

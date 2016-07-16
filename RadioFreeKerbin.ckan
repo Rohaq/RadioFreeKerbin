@@ -3,9 +3,9 @@
     "name"           : "Radio Free Kerbin",
     "abstract"       : "Basic data transmission for crewed command parts",
     "identifier"     : "RadioFreeKerbin",
-    "download"       : "https://github.com/benjwgarner/RadioFreeKerbin/releases/download/v1.0.1/RadioFreeKerbin_v1.0.1.zip",
+    "download"       : "https://github.com/benjwgarner/RadioFreeKerbin/releases/download/v1.1.0/RadioFreeKerbin_v1.1.0.zip",
     "license"        : "MIT",
-    "version"        : "1.0.1",
+    "version"        : "1.1.0",
     
     "author"         : "benjwgarner",
     "description"    : "A mod for Kerbal Space Program that adds basic antenna capability to all stock or mod-provided crewed command parts.",
@@ -19,6 +19,7 @@
         "repository"   : "https://github.com/benjwgarner/RadioFreeKerbin",
         "bugtracker"   : "https://github.com/benjwgarner/RadioFreeKerbin/issues",
         "spacedock"    : "http://spacedock.info/mod/818/Radio%20Free%20Kerbin",
+		"x_screenshot" : "https://i.imgur.com/7WyuRZQ.png"
     },
     
     "install" : [

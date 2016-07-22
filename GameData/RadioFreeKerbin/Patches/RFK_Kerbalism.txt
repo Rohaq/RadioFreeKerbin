@@ -1,0 +1,13 @@
+// Kerbalism Support
+
+@PART[*]:HAS[@MODULE[ModuleCommand],#CrewCapacity[>0]]:BEFORE[Kerbalism]:NEEDS[!RemoteTech,!AntennaRange,EnableSignal]:FOR[RadioFreeKerbin]
+{
+	@MODULE[ModuleDataTransmitter]
+	{
+		@name = Antenna
+		%scope = home
+		%relay_cost = 0.06
+		%min_transmission_cost = 2.0
+		%max_transmission_cost = 8.0
+	}
+}

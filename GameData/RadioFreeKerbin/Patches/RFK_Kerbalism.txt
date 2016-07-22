@@ -1,6 +1,6 @@
 // Kerbalism Support
 
-@PART[*]:HAS[@MODULE[ModuleCommand],#CrewCapacity[>0]]:BEFORE[Kerbalism]:NEEDS[!RemoteTech,!AntennaRange,EnableSignal]:FOR[RadioFreeKerbin]
+@PART[*]:HAS[@MODULE[ModuleCommand],#CrewCapacity[>0]]:FOR[RadioFreeKerbin]:BEFORE[Kerbalism]:NEEDS[!RemoteTech,!AntennaRange,EnableSignal]
 {
 	@MODULE[ModuleDataTransmitter]
 	{

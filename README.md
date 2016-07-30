@@ -9,6 +9,11 @@ A mod for Kerbal Space Program that adds basic antenna capability to all stock o
 
 ## Changelog
 
+- **v1.1.1** (29 July 2016)
+ - Added Kerbalism support
+ - Fixed syntax error in AntennaRange config
+ - Removed unneccessary config value from RemoteTech config
+
 - **v1.1.0** (16 July 2016)
  - Added RemoteTech support
  - Added AntennaRange support

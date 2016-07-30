@@ -9,6 +9,10 @@ A mod for Kerbal Space Program that adds basic antenna capability to all stock o
 
 ## Changelog
 
+- **v1.1.2** (30 July 2016)
+ - Changed Kerbalism patch from .txt to .cfg
+ - Fixed spelling errors in readme
+
 - **v1.1.1** (29 July 2016)
  - Added Kerbalism support
  - Fixed syntax error in AntennaRange config

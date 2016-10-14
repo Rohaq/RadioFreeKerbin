@@ -3,7 +3,7 @@
     "name"           : "Radio Free Kerbin",
     "abstract"       : "Basic data transmission for crewed command parts",
     "identifier"     : "RadioFreeKerbin",
-    "download"       : "https://github.com/benjwgarner/RadioFreeKerbin/releases/download/v1.1.2/RadioFreeKerbin_v1.1.2.zip",
+    "download"       : "https://github.com/benjwgarner/RadioFreeKerbin/releases/download/v1.2.0/RadioFreeKerbin_v1.2.0.zip",
     "license"        : "MIT",
     "version"        : "1.2.0",
     

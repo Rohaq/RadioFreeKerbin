@@ -3,11 +3,15 @@ A mod for Kerbal Space Program that adds basic antenna capability to all stock o
 
 ## Links
 
-- [Forums](http://forum.kerbalspaceprogram.com/index.php?/topic/142941-113-mm-radio-free-kerbin-v101-01-jul-2016-data-transmission-for-crewed-command-parts/)
+- [Forums](http://forum.kerbalspaceprogram.com/index.php?/topic/142941-1)
 - [GitHub](https://github.com/benjwgarner/RadioFreeKerbin)
 - [SpaceDock](http://spacedock.info/mod/818/Radio%20Free%20Kerbin)
 
 ## Changelog
+
+- **v1.2.0** (14 October 2016)
+ - Added compatibility with the CommNet system in KSP 1.2
+ - Slightly nerfed antenna specs for balance with new antennas in stock pods
 
 - **v1.1.2** (30 July 2016)
  - Changed Kerbalism patch from .txt to .cfg
@@ -31,4 +35,3 @@ A mod for Kerbal Space Program that adds basic antenna capability to all stock o
 - **v1.0.0** (29 June 2016)
  - Initial release
  - All functionality is implemented and has passed early testing.
- 

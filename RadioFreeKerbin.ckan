@@ -1,42 +1,50 @@
 {
-	"spec_version"		: "v1.2",
-	"identifier"	 	: "RadioFreeKerbin",
-	"name"				: "Radio Free Kerbin",
-	"abstract"			: "Basic data transmission for crewed command parts",
-	"description"		: "A mod for Kerbal Space Program that adds basic antenna capability to all stock or mod-provided crewed command parts.",
-	"author"		 	: "benjwgarner",
-	"license"			: "MIT",
-	"release_status" 	: "stable",
-	
-	"version"			: "1.2.0",
-	"ksp_version_min"	: "1.2.0",
-	"ksp_version_max"	: "1.2.99",
-	"download"			: "https://github.com/benjwgarner/RadioFreeKerbin/releases/download/v1.2.0/RadioFreeKerbin_v1.2.0.zip",
-	
-	"resources" : {
-		"homepage"		: "http://forum.kerbalspaceprogram.com/index.php?/topic/142941-1",
-		"repository"	: "https://github.com/benjwgarner/RadioFreeKerbin",
-		"spacedock"		: "http://spacedock.info/mod/818",
-		"bugtracker"	: "https://github.com/benjwgarner/RadioFreeKerbin/issues",
-		"x_screenshot"	: "https://i.imgur.com/7WyuRZQ.png"
-	},
-	
-	"depends" : [
-		{
-			"name" : "ModuleManager", "min_version" : "2.7.2"
-		}
-	],
-	
-	"supports" : [
-		{
-			"name" : "KSP-AVC", "min_version" : "1.1.6.2"
-		}
-	],
-	
-	"install" : [
-		{
-			"file"			: "GameData/RadioFreeKerbin",
-			"install_to"	: "GameData"
-		}
-	]
+    "spec_version"   : "v1.2",
+    "name"           : "Radio Free Kerbin",
+    "abstract"       : "Basic data transmission for crewed command parts",
+    "identifier"     : "RadioFreeKerbin",
+    "download"       : "https://github.com/benjwgarner/RadioFreeKerbin/releases/download/v1.2.1/RadioFreeKerbin_v1.2.1.zip",
+    "license"        : "MIT",
+    "version"        : "1.2.1",
+    
+    "author"         : "benjwgarner",
+    "description"    : "A mod for Kerbal Space Program that adds basic antenna capability to all stock or mod-provided crewed command parts.",
+    "release_status" : "stable",
+    "ksp_version_min": "1.3.0",
+    "ksp_version_max": "1.3.9",
+    
+    
+    "resources" : {
+        "homepage"     : "http://forum.kerbalspaceprogram.com/index.php?/topic/142941-1",
+        "repository"   : "https://github.com/benjwgarner/RadioFreeKerbin",
+        "bugtracker"   : "https://github.com/benjwgarner/RadioFreeKerbin/issues",
+        "spacedock"    : "http://spacedock.info/mod/818/Radio%20Free%20Kerbin",
+		"x_screenshot" : "https://i.imgur.com/7WyuRZQ.png"
+    },
+    
+    "install" : [
+        {
+            "file"       : "GameData/RadioFreeKerbin",
+            "install_to" : "GameData"
+        }
+    ],
+    
+    "depends" : [
+        {
+            "name" : "ModuleManager", "min_version" : "2.8.1"
+        }
+    ],
+    
+    "recommends" : [
+    ],
+    
+    "suggests" : [    
+    ],
+    
+    "supports" : [
+        {
+            "name" : "KSP-AVC", "min_version" : "1.1.6.2"
+        }
+    ]
+        
 }

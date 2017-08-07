@@ -9,6 +9,9 @@ A mod for Kerbal Space Program that adds basic antenna capability to all stock o
 
 ## Changelog
 
+- **v1.2.1** (07 August 2017)
+ - Updated version information to reflect compatibility with KSP 1.3
+
 - **v1.2.0** (14 October 2016)
  - Added compatibility with the CommNet system in KSP 1.2
  - Slightly nerfed antenna specs for balance with new antennas in stock pods
